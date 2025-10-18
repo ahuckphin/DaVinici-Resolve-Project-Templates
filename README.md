@@ -2,7 +2,7 @@
 With sample media to allow copying preset scaling, audio equalizer and colour correction 
 
 ## Standard
-4 second image scales from 1 to 1.01
+4 second image scales from 1 to 1.05
 
 ## DJI Pocket 2 
 29.97fps timeline
